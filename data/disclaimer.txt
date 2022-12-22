@@ -1,1 +1,1 @@
-Some data files are too large to host on Github. Therfore, files that can fit are included here individually, but all files are included in data.zip
+Some data files are too large to host on Github. Therfore, files that can fit are included here individually, but all files are included on Google Drive and can be accessed at https://drive.google.com/drive/folders/1Oc26bdlAPJln8gnjE_aZNBsIk-ORqANk?usp=sharing (requires LionMail).
