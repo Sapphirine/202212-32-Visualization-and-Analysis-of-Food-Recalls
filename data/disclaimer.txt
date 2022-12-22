@@ -1,0 +1,1 @@
+Some data files are too large to host on Github. Therfore, files that can fit are included here individually, but all files are included in data.zip
