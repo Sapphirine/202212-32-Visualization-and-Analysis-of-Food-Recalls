@@ -1,6 +1,4 @@
 # 202212-32-Food-Recalls
-### 202212-32
-
 ## Visualization and Analysis of Food Recalls
 ### EECS E6893: Big Data Analytics Fall 2022
 Group 32\
