@@ -9,7 +9,7 @@ This project aims to extract meaningful text features from food recall report we
 
 Available to the user is an interactive tool in `Analysis_Visualization.ipynb` to query recalls and see the results visualized.
 
-[Data Collected and Used (Requires LionMail)](https://drive.google.com/drive/folders/1Oc26bdlAPJln8gnjE_aZNBsIk-ORqANk?usp=sharing)
+Data collected and used is available in part in this repo, or fully on [Google Drive (Requires LionMail).](https://drive.google.com/drive/folders/1Oc26bdlAPJln8gnjE_aZNBsIk-ORqANk?usp=sharing)
 
 ![State Recalls](overall_state_choropleth.jpeg)
 
